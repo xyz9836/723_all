@@ -13,8 +13,6 @@ February 28, 2017
 
 声明本脚本包集成代码来自Github开源社区，如有版权问题请与站长联系。我们会第一时间处理，前提你拥有代码相关版权说明。
 
-点击下载：
-Crysadm2.1.3.rar
 
 使用方法：
 
@@ -25,4 +23,9 @@ Crysadm2.1.3.rar
 
 chmod +x install.sh
 ./install.sh
+
+
+
+
+
 
